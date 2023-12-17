@@ -15,5 +15,5 @@
    - *Reference: [arXiv:1706.03762 [cs.CL]](https://arxiv.org/abs/1706.03762)* 
 
 3. **FineTuning T5small**
-   - Fine-tuned implementation using the transformer-based unified text-to-text model T5small model, leveraging pre-trained language representations for our downstream code generation task.
+   - Fine-tuned implementation using the transformer-based unified text-to-text model T5small, leveraging pre-trained language representations for our downstream code generation task.
    - *Reference: [arXiv:1910.10683[cs.LG]](https://arxiv.org/abs/1910.10683)* 
