@@ -1,5 +1,5 @@
-# text2code
-Code Generation from Natural Language descriptions
+# text2code : Code Generation from Natural Language descriptions
+
 
 ## Dataset Used
 [CodeSearchNet](https://github.com/github/CodeSearchNet): A dataset designed for training code generation models.
